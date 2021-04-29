@@ -1,4 +1,4 @@
-Desafio prático Back
+Desafio prático Back end
 
 Utilizando symfony desenvolva uma API que faça CRUD dos seguintes dados. 
 
