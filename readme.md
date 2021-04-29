@@ -1,6 +1,6 @@
 # Desafio prático Back End PHP
 
-Utilizando symfony desenvolva uma API que faça CRUD dos seguintes dados. 
+Utilizando Symfony desenvolva uma API que faça CRUD dos seguintes dados. 
 
 ## User
 	Id 
